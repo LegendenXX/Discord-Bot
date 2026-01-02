@@ -1,0 +1,5 @@
+# Node.js / Python / generelle sensible Dateien
+node_modules/
+.env
+*.env
+config.json

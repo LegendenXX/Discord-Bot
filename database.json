@@ -1,0 +1,335 @@
+{
+  "guilds": {
+    "1061311445813436546": {
+      "users": {
+        "528284722384601110": {
+          "id": "528284722384601110",
+          "balance": 0,
+          "purchases": [
+            {
+              "targetId": "1015998157055864962",
+              "role": "Katze",
+              "price": 100000000,
+              "date": 1761223961972
+            },
+            {
+              "targetId": "955384303095808020",
+              "role": "Freies Haustier",
+              "price": 10000000,
+              "date": 1761227693115
+            },
+            {
+              "targetId": "1009255284272812114",
+              "role": "Sekretär",
+              "price": 1000000,
+              "date": 1761297424781
+            },
+            {
+              "targetId": "755437600600490185",
+              "role": "Haustier-Sekretär",
+              "price": 1000000,
+              "date": 1761298678286
+            },
+            {
+              "targetId": "643882977851342849",
+              "role": "Panda Clan Familien Mitglied",
+              "price": 100000,
+              "date": 1767306172915
+            }
+          ],
+          "owned": [
+            "1015998157055864962",
+            "955384303095808020",
+            "1009255284272812114",
+            "755437600600490185",
+            "643882977851342849"
+          ],
+          "bank": 98810000,
+          "job": "Arbeitslos",
+          "lastTransaction": {
+            "guildId": "1061311445813436546",
+            "userId": "528284722384601110",
+            "type": "deposit",
+            "amount": 800000,
+            "balance": 0,
+            "bank": 98810000,
+            "date": 1767349091151
+          },
+          "role": null
+        },
+        "1015998157055864962": {
+          "id": "1015998157055864962",
+          "balance": 992610.3799999999,
+          "purchases": [
+            {
+              "targetId": "839908473424183366",
+              "role": "Ewig größereSchwester von Karo",
+              "price": 100000000,
+              "date": 1761223962140
+            },
+            {
+              "targetId": "349565851197898752",
+              "role": "Haustier",
+              "price": 19,
+              "date": 1761330572998
+            },
+            {
+              "targetId": "810925002450534482",
+              "role": "Haustier",
+              "price": 8,
+              "date": 1761330748055
+            },
+            {
+              "targetId": "443327240541831171",
+              "role": "Familientier",
+              "price": 16,
+              "date": 1761330861347
+            },
+            {
+              "targetId": "681236132700225586",
+              "role": "fereier  Luchs",
+              "price": 14,
+              "date": 1761330979073
+            },
+            {
+              "targetId": "761686185377792041",
+              "role": "Große Schwester",
+              "price": 19,
+              "date": 1761331119120
+            },
+            {
+              "targetId": "691283819470389328",
+              "role": "Großer Bruder",
+              "price": 19,
+              "date": 1761331176050
+            }
+          ],
+          "owned": [
+            "839908473424183366",
+            "349565851197898752",
+            "810925002450534482",
+            "443327240541831171",
+            "681236132700225586",
+            "761686185377792041",
+            "691283819470389328"
+          ],
+          "role": "Katze",
+          "bank": 7099.62,
+          "job": "Arbeitslos",
+          "lastTransaction": {
+            "type": "balance",
+            "amount": -100,
+            "date": 1767202304143
+          }
+        },
+        "839908473424183366": {
+          "id": "839908473424183366",
+          "balance": 1000000,
+          "purchases": [],
+          "owned": [],
+          "role": "Ewig größereSchwester von Karo",
+          "bank": 0,
+          "job": "Arbeitslos",
+          "lastTransaction": null
+        },
+        "955384303095808020": {
+          "id": "955384303095808020",
+          "balance": 1000000,
+          "purchases": [],
+          "owned": [],
+          "role": "Freies Haustier",
+          "bank": 0,
+          "job": "Arbeitslos",
+          "lastTransaction": null
+        },
+        "1009255284272812114": {
+          "id": "1009255284272812114",
+          "balance": 1000000,
+          "purchases": [],
+          "owned": [],
+          "role": "Sekretär",
+          "bank": 0,
+          "job": "Arbeitslos",
+          "lastTransaction": null
+        },
+        "755437600600490185": {
+          "id": "755437600600490185",
+          "balance": 1000000,
+          "purchases": [],
+          "owned": [],
+          "role": "Haustier-Sekretär",
+          "bank": 0,
+          "job": "Arbeitslos",
+          "lastTransaction": null
+        },
+        "349565851197898752": {
+          "id": "349565851197898752",
+          "balance": 1000000,
+          "purchases": [],
+          "owned": [],
+          "role": "Haustier",
+          "bank": 0,
+          "job": "Arbeitslos",
+          "lastTransaction": null
+        },
+        "810925002450534482": {
+          "id": "810925002450534482",
+          "balance": 1000000,
+          "purchases": [],
+          "owned": [],
+          "role": "Haustier",
+          "bank": 0,
+          "job": "Arbeitslos",
+          "lastTransaction": null
+        },
+        "443327240541831171": {
+          "id": "443327240541831171",
+          "balance": 1000000,
+          "purchases": [],
+          "owned": [],
+          "role": "Familientier",
+          "bank": 0,
+          "job": "Arbeitslos",
+          "lastTransaction": null
+        },
+        "681236132700225586": {
+          "id": "681236132700225586",
+          "balance": 1000000,
+          "purchases": [],
+          "owned": [],
+          "role": "fereier  Luchs",
+          "bank": 0,
+          "job": "Arbeitslos",
+          "lastTransaction": null
+        },
+        "761686185377792041": {
+          "id": "761686185377792041",
+          "balance": 1000000,
+          "purchases": [],
+          "owned": [],
+          "role": "Große Schwester",
+          "bank": 0,
+          "job": "Arbeitslos",
+          "lastTransaction": null
+        },
+        "691283819470389328": {
+          "id": "691283819470389328",
+          "balance": 1000000,
+          "purchases": [],
+          "owned": [],
+          "role": "Großer Bruder",
+          "bank": 0,
+          "job": "Arbeitslos",
+          "lastTransaction": null
+        },
+        "643882977851342849": {
+          "id": "643882977851342849",
+          "username": "Unbekannt",
+          "balance": 10000,
+          "bank": 0,
+          "job": "Arbeitslos",
+          "lastTransaction": null,
+          "purchases": [],
+          "owned": [],
+          "role": "Panda Clan Familien Mitglied",
+          "bot": false
+        }
+      },
+      "ownerships": {
+        "643882977851342849": {
+          "ownerId": "528284722384601110",
+          "role": "Panda Clan Familien Mitglied",
+          "date": 1767306172913
+        }
+      },
+      "ownershipHistory": [
+        {
+          "ownerId": "528284722384601110",
+          "targetId": "643882977851342849",
+          "role": "Panda Clan Familien Mitglied",
+          "date": 1767306172913,
+          "action": "setOwner"
+        }
+      ]
+    },
+    "830786353344020491": {
+      "users": {
+        "528284722384601110": {
+          "id": "528284722384601110",
+          "username": "der.imperator_66",
+          "balance": 900000,
+          "purchases": [
+            {
+              "targetId": "892089700041519157",
+              "role": "Verwaltung",
+              "price": 50000,
+              "date": 1761655035396
+            }
+          ],
+          "owned": [
+            "892089700041519157"
+          ],
+          "role": null,
+          "bot": false,
+          "bank": 0,
+          "job": "Arbeitslos",
+          "lastTransaction": null
+        },
+        "892089700041519157": {
+          "id": "892089700041519157",
+          "username": "Unbekannt",
+          "balance": 1000000,
+          "purchases": [],
+          "owned": [],
+          "role": "Verwaltung",
+          "bot": false,
+          "bank": 0,
+          "job": "Arbeitslos",
+          "lastTransaction": null
+        }
+      },
+      "ownerships": {
+        "892089700041519157": {
+          "ownerId": "528284722384601110",
+          "role": "Verwaltung",
+          "date": 1761655035392
+        }
+      },
+      "ownershipHistory": [
+        {
+          "ownerId": "528284722384601110",
+          "targetId": "892089700041519157",
+          "role": "Verwaltung",
+          "date": 1761655035392,
+          "action": "setOwner"
+        },
+        {
+          "ownerId": "528284722384601110",
+          "targetId": "892089700041519157",
+          "price": 50000,
+          "role": "Verwaltung",
+          "date": 1761655035396,
+          "action": "addOwnership"
+        }
+      ]
+    },
+    "1044990074904916048": {
+      "users": {
+        "528284722384601110": {
+          "id": "528284722384601110",
+          "username": "der.imperator_66",
+          "balance": 10000,
+          "bank": 0,
+          "job": "Arbeitslos",
+          "lastTransaction": null,
+          "purchases": [],
+          "owned": [],
+          "role": null,
+          "bot": false
+        }
+      },
+      "ownerships": {},
+      "ownershipHistory": []
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.7",
+  "description": "Phantom Industries Systeme sind Online",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.12.2",
+    "archy": "^1.0.0",
+    "better-sqlite3": "^12.4.1",
+    "discord.js": "^14.023.02",
+    "dotenv": "^17.2.3"
+  }
+}
+
