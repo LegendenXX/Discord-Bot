@@ -5,12 +5,6 @@ const ALIASES = {
   "528284722384601110": "Phantom Industries",
 };
 
-// Bundles (gekoppelte Paare)
-const PAIRS = {
-  "1015998157055864962": "839908473424183366",
-  "839908473424183366": "1015998157055864962",
-};
-
 /**
  * Gibt Anzeigenamen zurück: Alias > Username > Fallback
  */
